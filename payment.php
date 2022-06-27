@@ -19,7 +19,7 @@ include "conexaoBD.php";
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://assets.betalabs.net/production/mensalidadeplanofunerario/styles/stores/1/style.css?47c6ff403330d7259b874e73378a7040">
-    <link rel="icon" sizes="16x16" type="image/png" href="/logos/logo2.png">
+    <link rel="icon" sizes="16x16" type="image/png" href="https://raw.githubusercontent.com/Ksanim0/fun-ousadia-bd/main/logos/logo1.png">
     <meta name="google-site-verification" content="ezTnfxOAOeXB6FaEOsqR0fcf63u74YI3CQX8biM0w7I" />
     
     
