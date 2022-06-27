@@ -24,7 +24,7 @@ include "conexaoBD.php";
     <link rel="stylesheet"
         href="https://assets.betalabs.net/production/mensalidadeplanofunerario/styles/stores/1/style.css?47c6ff403330d7259b874e73378a7040">
     <link rel="icon" sizes="16x16" type="image/png"
-        href="logos/logo1.png">
+        href="https://raw.githubusercontent.com/Ksanim0/fun-ousadia-bd/main/logos/funerariaWide__1_-removebg-preview.png">
         <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 <!-- JavaScript Bundle with Popper -->
@@ -133,7 +133,7 @@ include "conexaoBD.php";
             <nav class="navbar navbar-expand-sm navbar-dark">
                 <!-- Brand/logo -->
                 <a class="navbar-brand" href="">
-                    <img src="/logos/funerariaWide__1_-removebg-preview.png"
+                    <img src="https://raw.githubusercontent.com/Ksanim0/fun-ousadia-bd/main/logos/funerariaWide__1_-removebg-preview.png"
                         alt="logo" >
                 </a>
                 <ul class="navbar-nav">
@@ -177,8 +177,9 @@ include "conexaoBD.php";
     <header class="header-mobile mobile">
         <nav role="navigation">
             <div class="logo-loja">
+            
                 <a href="/">
-                    <img src="/logos/funerariaWide__1_-removebg-preview.png"
+                    <img src="https://raw.githubusercontent.com/Ksanim0/fun-ousadia-bd/main/logos/funerariaWide__1_-removebg-preview.png"
                         alt="logo">
                 </a>
             </div>
